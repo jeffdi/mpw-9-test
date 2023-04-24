@@ -32,6 +32,8 @@
     "BASE_SDC_FILE": "dir::base_user_proj_example.sdc",
     "DIODE_INSERTION_STRATEGY": 3,
     "RUN_CVC": 1,
+    "RUN_MAGIC_DRC": 0,
+    "RUN_KLAYOUT_DRC": 1,
     "pdk::sky130*": {
         "FP_CORE_UTIL": 45,
         "RT_MAX_LAYER": "met4",
